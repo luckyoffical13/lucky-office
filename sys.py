@@ -2,8 +2,8 @@ import time
 
 import psutil
 
-from AnonXMusic.misc import _boot_
-from AnonXMusic.utils.formatters import get_readable_time
+from LuckyMusic.misc import _boot_
+from LuckyMusic.utils.formatters import get_readable_time
 
 
 async def bot_sys_stats():
